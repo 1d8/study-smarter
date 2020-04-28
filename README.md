@@ -1,7 +1,7 @@
-#[Study Less, Study Smarter](https://www.youtube.com/watch?v=IlU-zDU6aQ0) 
+# [Study Less, Study Smarter](https://www.youtube.com/watch?v=IlU-zDU6aQ0) 
 
 
-#Tips to study smarter
+# Tips to study smarter
 
 
 ***
